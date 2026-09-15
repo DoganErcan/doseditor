@@ -2,8 +2,10 @@
  * doseditor (Komplett & Erweitert mit Maus-Support)
  * ================================================================
  *
+ * Datum: 15.09.2026 - 17:00 Uhr
+ *
  * Ein einfacher Konsolen-Texteditor für Windows.
- * nicht Combittet!
+ *
  * ------------------------------------------------
  * Mausbedienung (NEU!)
  * ------------------------------------------------
