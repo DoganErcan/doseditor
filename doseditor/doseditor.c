@@ -3,8 +3,8 @@
  * ================================================================
  *
  * Ein einfacher Konsolen-Texteditor für Windows.
- *  ## Hier sind die Änderungen um Git Ush und pull zu testen!! ###
- * ----------------------------------------------------------------
+ * nicht Combittet!
+ * ------------------------------------------------
  * Mausbedienung (NEU!)
  * ------------------------------------------------
  * Linksklick          Cursor setzen
