@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="doseditor/doseditor.vcxproj" Id="3256e68b-59ab-49f4-8e6c-2637736c7f78" />
+</Solution>
