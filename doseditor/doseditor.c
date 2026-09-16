@@ -2946,7 +2946,9 @@ static void taste_verarbeiten ( int k, int* quit )
 	if ( k == KEY_CTRL_D || k == KEY_CTRL_K ) E.sel_active = 0;
 }
 
+/* ---------------------------------------------------------------
 /* Eine Benutzereingabe bildet genau einen Rueckgaengig-Schritt. */
+/* ---------------------------------------------------------------
 static void benutzereingabe_verarbeiten ( int* quit )
 {
 	int k = eingabe_lesen ( );
